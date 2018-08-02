@@ -1,0 +1,30 @@
+#input1, #input2 {
+	width: 20px;
+	text-align: center;
+	position: absolute;
+	top: 0;
+	left: 0;
+	font-weight: 900;
+}
+
+#input3 {
+	width: 42px;
+	display: none;
+}
+
+div#input1, div#input2 {
+	font-size: 18pt;
+}
+
+input {
+	border: 1px solid black;
+}
+
+#task {
+	font-weight: 900;
+	font-size: 24pt;
+	color: black;
+	position: absolute;
+	top: 30px;
+	left: 380px;
+}
